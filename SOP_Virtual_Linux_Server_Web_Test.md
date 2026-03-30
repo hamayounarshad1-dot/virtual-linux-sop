@@ -1,3 +1,5 @@
+![_3d03e585-ebf5-4a6f-a556-50aee3ea16e5](https://github.com/user-attachments/assets/4b01f5c5-3b61-4c31-af2d-fe3ca0e0469e)
+
 SOP – Setting Up a Virtual Linux Server for Web Application Testing
 1. Title
 Standard Operating Procedure: Creating a Virtual Linux Server for Web Application Testing
